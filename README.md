@@ -13,4 +13,4 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - Composite and RGB PAL output
 - Use standard ZX Spectrum Adapter, 9V with center pin negative (-) 
 ![Board](https://github.com/DonSuperfo/ZX-Nuvo-128/blob/main/Issue%204A/ZX%20Nuvo%20128%20Issue%204.jpg)
-![Board](https://github.com/DonSuperfo/ZX-Nuvo-128/blob/main/Issue%205A/ZX%20Nuvo%20128%20Issue%205A.jpg)
+![Board](https://github.com/DonSuperfo/ZX-Nuvo-128/blob/main/Issue%205A/ZX%20Nuvo%20128%20Issue%205.jpg)
