@@ -14,3 +14,7 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - Use standard ZX Spectrum Adapter, 9V with center pin negative (-) 
 ![Board](https://github.com/DonSuperfo/ZX-Nuvo-128/blob/main/Issue%204A/ZX%20Nuvo%20128%20Issue%204.jpg)
 ![Board](https://github.com/DonSuperfo/ZX-Nuvo-128/blob/main/Issue%205A/ZX%20Nuvo%20128%20Issue%205.jpg)
+
+You can buy ZX Nuvo 128 issue 4A PCB from PCBWay through this link:
+
+<a href="https://www.pcbway.com/project/shareproject/ZX_Nuvo_128_Issue_4A_20759a69.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
